@@ -28,7 +28,7 @@ const Home = () => (
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 800px;
+        width: 600px;
       }
 
       .title {

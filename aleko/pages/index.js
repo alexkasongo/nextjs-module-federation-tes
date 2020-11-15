@@ -14,7 +14,7 @@ const Home = () => (
       <h1 className="title">
         App 2
       </h1>
-      <img className="image" src={'https://media4.giphy.com/media/SpoV1pB4g7gXvWo3Up/giphy.gif?cid=ecf05e479e04413e83e664349873eb6dbdfce0c2f9dfa5e4&rid=giphy.gif'} alt="Logo" />
+      {/* <img className="image" src={'https://media4.giphy.com/media/SpoV1pB4g7gXvWo3Up/giphy.gif?cid=ecf05e479e04413e83e664349873eb6dbdfce0c2f9dfa5e4&rid=giphy.gif'} alt="Logo" /> */}
     </main>
 
     <style jsx global>{`
@@ -42,7 +42,7 @@ const Home = () => (
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 800px;
+        width: 600px;
       }
 
       .title {
